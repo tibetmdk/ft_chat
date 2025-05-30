@@ -10,7 +10,7 @@
 #define WIDTH 640
 #define HEIGHT 480
 #define MAX_MESSAGES 100
-#define SERVER_IP "127.0.0.1"
+#define SERVER_IP "0.0.0.0"
 #define SERVER_PORT 12345
 
 int sockfd;
